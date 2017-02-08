@@ -1,0 +1,9 @@
+[submodule "compose-drs"]
+	path = compose-drs
+	url = git@github.com:heytrav/compose-drs.git
+[submodule "drs-project"]
+	path = drs-project
+	url = git@github.com:heytrav/drs-project.git
+[submodule "nodepp"]
+	path = nodepp
+	url = git@github.com:heytrav/nodepp.git
