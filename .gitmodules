@@ -10,9 +10,6 @@
 [submodule "e2e-d4s"]
 	path = e2e-d4s
 	url = git@github.com:heytrav/e2e-d4s.git
-[submodule "healthcheck"]
-	path = healthcheck
-	url = git@github.com:heytrav/healthcheck.git
 [submodule "drs-nginx"]
 	path = drs-nginx
 	url = git@github.com:heytrav/drs-nginx.git
